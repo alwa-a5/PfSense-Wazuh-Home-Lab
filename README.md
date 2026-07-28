@@ -1,3 +1,20 @@
+# Cybersecurity Home Lab
+
+
+
+
+# Topology
+
+
+
+<img width="680" height="575" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1bbd6bb8-c4a4-451d-8d31-553b9f34854f" />
+
+
+
+
+
+
+
 # Setting up Pdfsense
 
 <img width="720" height="400" alt="FreeBSD version 10 and earlier 64-bit (5)-2026-07-16-20-06-28" src="https://github.com/user-attachments/assets/36d0a2f1-5cc9-42b1-87aa-38df3ee73452" />
