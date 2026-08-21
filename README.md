@@ -1,4 +1,4 @@
-# pfSense Wazuh Home Lab
+# PfSense Wazuh Home Lab
 - For this project I simulated a realistic brute force attack against an exposed remote access service to evaluate the visibility and detection capability of my home lab setup. I built a segmented network using pfSense as the perimeter firewall, an Ubuntu Server running Wazuh as my SIEM, a Windows 10 machine as the target, and a Kali Linux machine as the attacker. To strengthen visibility on the Windows host, I deployed a Wazuh agent, which was essential for capturing the failed and successful login events generated during the attack. On the Kali attacker machine, I used Nmap for reconnaissance and Hydra to brute force RDP credentials against the victim. I executed the attack while simultaneously reviewing and tuning detection rules in Wazuh to ensure the activity would generate a clear, actionable alert. The lab's primary goal was to demonstrate how a firewall, a SIEM, and an exposed service interact in a real attack path, and how an analyst would detect and respond to it.
 
 # Topology
